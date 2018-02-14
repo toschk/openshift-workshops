@@ -20,7 +20,7 @@
        RouteID: '96',
        DirectionNum: 0,
        DirectionText: 'EAST',
-       TripHeadsign: 'STADIUM - ARMORY',
+       TripHeadsign: 'STADIUM - ARMORY NODNARD',
        TripStartTime: '2016-03-30T15:36:00',
        TripEndTime: '2016-03-30T16:51:00' },
      { VehicleID: '7150',
